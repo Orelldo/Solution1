@@ -7,10 +7,6 @@
     <title>What Up Son</title>
 </head>
 <body>
-    <form id="form1" runat="server">
-    <div>
-    
-    </div>
-    </form>
+    <h1>Welcome to the Jungl</h1>
 </body>
 </html>
