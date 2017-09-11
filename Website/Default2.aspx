@@ -7,6 +7,6 @@
     <title>What Up Son</title>
 </head>
 <body>
-    <h1>Welcome to the Jungl</h1>
+    <h1>Welcome to the Jungle</h1>
 </body>
 </html>
